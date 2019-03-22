@@ -39,3 +39,7 @@ button {
 div.col-md-7.col-sm-12 {
     margin-top: 90px;
 }
+
+div.col-lg-6.text-center {
+    margin-top: 150px;
+}

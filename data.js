@@ -6,7 +6,7 @@ const data = {
         name: "Jordans B-Ball Shoes",
         role: "Basketball Shoes",
         bio: "New Jordan 13 shoes in Red",
-        other: "huhhhhhh",
+        other: "Price: $249.99",
         bioPic: "images/bball1.png"
     },
     
@@ -14,7 +14,7 @@ const data = {
         name: "Nike 95' Shoes",
         role: "Running Shoes",
         bio: "Nike SB 95's in all black",
-        other: "huhhhhhh",
+        other: "Price: $149.99",
         bioPic: "images/running1.png"
     }
 };
